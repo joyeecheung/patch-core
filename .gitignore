@@ -1,0 +1,4 @@
+*.o
+patch-core
+test.core
+
