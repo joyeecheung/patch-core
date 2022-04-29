@@ -12,3 +12,4 @@ patch-core: $(OBJECTS)
 
 clean:
 	rm -f *.o patch-core
+	Agg 1
